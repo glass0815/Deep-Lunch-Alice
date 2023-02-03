@@ -1,8 +1,8 @@
 def run():
+	print('>> Up & Down Game Start!')
 
 	return
 
 
 if __name__ == '__main__':
-	print('>> BaskinRobins31 Start!')
 	run()
